@@ -1,0 +1,24 @@
+.postres{
+    font-size: 62.5%;
+    background:#CFD9C1;
+}
+
+body{
+    font-size: 16px;
+}
+
+.platillos{
+    font-size: 62.5%;
+    background: #D9BDBA;
+}
+
+.img2{
+    width: 40rem;
+    height: 30rem;
+    }
+    
+.title2{
+        color:#73594F;
+        font-size: 3.8rem;
+        text-align: left;
+}
